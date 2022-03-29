@@ -17,6 +17,12 @@ The program also loads normal maps for detailed shadows, but I haven't applied t
   g   = Move mode<br>
   r   = Rotation mode<br>
   s   = Scale mode<br>
+  
+<h3>Note:</h3>
+The .obj files used in this project are acquired from https://www.models-resource.com/. I do not own the rights to any of these 3D models, and I am just using them for testing and demonstating purposes.<br><br>
+
+Bayonetta model: https://www.models-resource.com/xbox_360/bayonetta/model/7928/<br>
+Coconut Mall model: https://www.models-resource.com/3ds/mariokart7/model/9997/<br>
 
 <h3>Example Images</h3>
 
