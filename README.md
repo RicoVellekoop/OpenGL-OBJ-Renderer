@@ -20,5 +20,5 @@ The program also loads normal maps for detailed shadows, but I haven't applied t
 
 <h3>Example Images</h3>
 
-![Example1](ExampleImages\Example1.png)
-![Example2](ExampleImages\Example2.png)
+![Example1](ExampleImages/Example1.png)
+![Example2](ExampleImages/Example2.png)
