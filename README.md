@@ -1,6 +1,6 @@
 # OpenGL-OBJ-Renderer
 This program was created as a part of a Computer Graphics course for the study Applied Computer Science at the Rotterdam University of Applied Sciences.
-This program is a basic .obj file viewer with basic material support for difuse textures using .mtl files, and was created using OpenGL and the GLM library.
+This program is a basic .obj file viewer with basic material support for diffuse textures using .mtl files, and was created using OpenGL and the GLM library.
 It can be used to load 3D meshes from a .obj file, which can be rotated, scaled, and moved across the scene.
 The program also loads normal maps for detailed shadows, but I haven't applied them using shaders, becouse I was still figuring out what would be the right way to implement them.
 
